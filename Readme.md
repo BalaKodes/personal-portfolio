@@ -3,7 +3,7 @@
 👋 Hi! I'm **Bala Koteswara Rao Palagarla**, a passionate **Java Developer** 🚀  
 This is my personal portfolio built using **HTML, CSS, and JavaScript**.
 
-🌐 **Live Website:** [https://balakodes.github.io](https://balakodes.github.io)
+🌐 **Live Website:** [https://balakodes.github.io/personal-portfolio](https://balakodes.github.io/personal-portfolio)
 
 ---
 
